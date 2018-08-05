@@ -1,7 +1,6 @@
 package com.nelioalves.cursomc.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.nelioalves.cursomc.domain.enums.ItemPedidoPK;
 
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;

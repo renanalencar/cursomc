@@ -1,7 +1,4 @@
-package com.nelioalves.cursomc.domain.enums;
-
-import com.nelioalves.cursomc.domain.Pedido;
-import com.nelioalves.cursomc.domain.Produto;
+package com.nelioalves.cursomc.domain;
 
 import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
